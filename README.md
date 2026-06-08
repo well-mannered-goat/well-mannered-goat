@@ -35,4 +35,4 @@ I enjoy reading source code, understanding how systems work beneath the
 abstractions, and building tools that help others inspect and understand
 software.
 
-> "A developer broadens his boundaries by doing and learning."
+> I am a well mannered goat too !!
